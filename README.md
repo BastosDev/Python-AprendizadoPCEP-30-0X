@@ -24,3 +24,10 @@
 - Fácil de usar - principalmente por causa da sintaxe que fornece ao programador uma linguagem mais acessivel e ao mesmo tempo utilizável no mercado;
 - Fácil de entender - isso à torna mais fácil de entender o código de outras pessoas ou outras pessoas entenderem seu código;
 - Fácil de implementar - por python ser gratuito e uma linguágem de código aberto.
+
+### Rivais do Python
+- Perl - uma linguagem de script criada originalmente por Larry Wall;
+    - mais tradicional e conservador que o Python.
+- Ruby - uma linguagem de script criada por Yukihiro Matsumoto.
+    - ao contrário do primeiro, é mais inovador e mais cheio de novas ideias que o Python.
+

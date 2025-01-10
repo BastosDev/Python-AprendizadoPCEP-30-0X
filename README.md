@@ -31,3 +31,9 @@
 - Ruby - uma linguagem de script criada por Yukihiro Matsumoto.
     - ao contrário do primeiro, é mais inovador e mais cheio de novas ideias que o Python.
 
+### Onde o Python é utilizado?
+- Implementar serviços de Internet complexos, como mecanismos de pesquisa, armazenamento em nuvem e ferramentas, mídias sociais e assim por diante.
+
+### Por que não Python?
+- Programação em baixo nível :: Se você quiser implementar um driver ou mecanismo gráfico extremamente eficaz, não usará Python;
+- Aplicativos para dispositivos móveis :: Embora esse território ainda esteja esperando para ser conquistado pelo Python, provavelmente acontecerá algum dia.

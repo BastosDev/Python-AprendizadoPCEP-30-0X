@@ -6,3 +6,6 @@
 - Interpretação :: Traduz o programa de origem toda vez que ele é executado. É necessario que o usuário final tambem use o intérprete para executar o programa.
 
 - O programa ser interpretado ou compilado não é propriedade da linguagem, mas uma propriedade da implementação.
+
+## Python
+### Quem criou Python?
